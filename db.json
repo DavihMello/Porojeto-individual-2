@@ -1,0 +1,62 @@
+{
+    "livros": [
+      {
+        "id": 1,
+        "nome": "o Investidor Inteligente",
+        "autor": "Benjamim Graham",
+        "preco": 59.9,
+        "categoria_id": 1
+      },
+      {
+        "id": 2,
+        "nome": "Pai Rico Pai Pobre",
+        "autor": "Robert Kiyosaki.",
+        "preco": 34.8,
+        "categoria_id": 1
+      },
+      {
+        "id": 3,
+        "nome": "O Homem mais rico da Babilônia",
+        "descricao": "George Samuel Clason",
+        "preco": 37.4,
+        "categoria_id": 1
+      },
+      {
+        "id": 4,
+        "nome": "Os segredos da Mente Milionária",
+        "autor": "T. Harv eker",
+        "preco": 34.6,
+        "categoria_id": 1
+      },
+      {
+        "id": 5,
+        "nome": "O poder do hábito",
+        "autor": " Charles Duhigg",
+        "preco": 44.9,
+        "categoria_id": 2
+      },
+      {
+        "id": 6,
+        "nome": "Mindset: A nova Pscicologia do sucesso",
+        "autor": "Carol S. Dweck",
+        "preco": 7.5,
+        "categoria_id": 2
+      }
+    ],
+    "Bibliotecários": [
+      {
+        "id": 1,
+        "nome": "Élma maria da silva",
+        "cpf": "123.456.097-51",
+        "idade": 30
+        
+      },
+      {
+        "id": 2,
+        "nome": "Omar Lindo de sousa",
+        "cpf": "123.456.097-51",
+        "idade": 35
+              
+      }
+    ]
+  } 
