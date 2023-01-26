@@ -1,6 +1,20 @@
 {
   "livros": [
     {
+      "id": 1,
+      "nome": "o Investidor Inteligente",
+      "autor": "Benjamim Graham",
+      "preco": 59.9,
+      "categoria_id": 1
+    },
+    {
+      "id": 2,
+      "nome": "Pai Rico Pai Pobre",
+      "autor": "Robert Kiyosaki.",
+      "preco": 34.8,
+      "categoria_id": 1
+    },
+    {
       "id": 3,
       "nome": "O Homem mais rico da Babilônia",
       "descricao": "George Samuel Clason",
@@ -27,15 +41,12 @@
       "autor": "Carol S. Dweck",
       "preco": 7.5,
       "categoria_id": 2
-    },
-    {
-      "id": 7
     }
   ],
   "Bibliotecários": [
     {
       "id": 1,
-      "nome": "Élma maria da silva",
+      "nome": "Selma maria da silva",
       "cpf": "123.456.097-51",
       "idade": 30
     },
@@ -45,7 +56,7 @@
       "cpf": "133.456.197-54",
       "idade": 35
     },
-    {
+      {
       "id": 3,
       "nome": "Sivério sivio silva",
       "cpf": "153.356.097-32",
@@ -57,6 +68,7 @@
       "cpf": "113.236.037-99",
       "idade": 44
     }
+    
   ],
   "audioBooks": [
     {
